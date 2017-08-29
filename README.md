@@ -1,6 +1,6 @@
 # Jangal.co Logo
 This repository contains complete list of [jangal.co](https://jangal.co) logo,
-in any standard formats and sizes.
+in any standard formats and sizes. [Demo](https://jangal.github.io/jangal-logo/)
 
 ## Build
 
